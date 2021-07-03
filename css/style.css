@@ -308,7 +308,7 @@ body {
 }
 .container .main {
   width: 70%;
-  float: left;
+  float: center;
 }
 @media screen and (max-width: 1015px) {
   .container .main {
